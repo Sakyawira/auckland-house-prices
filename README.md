@@ -29,7 +29,7 @@ The correlation between the numeric columns were calculated and observed in the
 below correlation plot. (The right color bar indicated the correlation values. For
 example, dark red means correlation value is 1 and light beige means correlation
 value is negative 0.25)
-<img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Cor.PNG?raw=true" width="500" height="500" />
+<img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Cor.PNG?raw=true" width="1160" height="824" />
 The graph shows that bedrooms number, bathrooms number, land Area, latitude,
 and number of population of 50-59 years old have strong positive correlation with
 the Capital Value of the houses. On the other hand total number of population,
