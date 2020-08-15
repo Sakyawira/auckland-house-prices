@@ -18,7 +18,7 @@ The initial exploration of the data began with some summary for each attributeâ€
 minimum, maximum, mean, median, standard deviation, and distinct count. The
 results were taken from a cleaned dataset with 1048 entries, as shown here:
 <img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Summary.png?raw=true" width="620" height="260" />
-<img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/summary2.PNG?raw=true" width="1000" height="200" />
+<img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/summary2.PNG?raw=true" width="625" height="200" />
 It should be noted that some attributes have standard deviations of 3 or more, in
 particular: the land area, CV (Capital Value), number of populations in certain ages,
 population number, and deprivation index (Score format).
@@ -30,6 +30,7 @@ below correlation plot. (The right color bar indicated the correlation values. F
 example, dark red means correlation value is 1 and light beige means correlation
 value is negative 0.25)
 <img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Cor.PNG?raw=true" width="580" height="412" />
+
 The graph shows that bedrooms number, bathrooms number, land Area, latitude,
 and number of population of 50-59 years old have strong positive correlation with
 the Capital Value of the houses. On the other hand total number of population,
