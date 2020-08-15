@@ -17,7 +17,9 @@ a score of 0.167.
 The initial exploration of the data began with some summary for each attribute’s
 minimum, maximum, mean, median, standard deviation, and distinct count. The
 results were taken from a cleaned dataset with 1048 entries, as shown here:
+
 <img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Summary.png?raw=true" width="620" height="260" />
+
 <img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/summary2.PNG?raw=true" width="625" height="200" />
 
 It should be noted that some attributes have standard deviations of 3 or more, in
@@ -30,6 +32,7 @@ The correlation between the numeric columns were calculated and observed in the
 below correlation plot(The right color bar indicated the correlation values. For
 example, dark red means correlation value is 1 and light beige means correlation
 value is negative 0.25).
+
 <img src="https://github.com/Sakyawira/auckland-house-prices/blob/master/Images/Cor.PNG?raw=true" width="580" height="412" />
 
 The graph shows that bedrooms number, bathrooms number, land Area, latitude,
